@@ -8,10 +8,10 @@ package raft
 // test with the original before submitting.
 //
 
-import "6.824/labgob"
-import "6.824/labrpc"
+import "yet-another-key-value-store/labgob"
+import "yet-another-key-value-store/labrpc"
 import "bytes"
-import "log"
+import "log" 
 import "sync"
 import "testing"
 import "runtime"
